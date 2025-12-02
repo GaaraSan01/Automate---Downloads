@@ -22,7 +22,7 @@ Script PowerShell profissional para organização automática de arquivos na pas
 1. Clone ou baixe o repositório:
 ```powershell
 git clone https://github.com/GaaraSan01/Automate---Downloads.git
-cd downloads-organizer
+cd Automate---Downloads
 ```
 
 2. Verifique a versão do PowerShell:
